@@ -1,0 +1,10 @@
+{
+  "name": "artity-monorepo",
+  "version": "1.0.0",
+  "description": "Monorepo for my GTD apps",
+  "main": "index.js",
+  "repository": "git@github.com:artyhedgehog/artity-monorepo.git",
+  "author": "Artem Kolomytsev <arhed@ya.ru>",
+  "license": "MIT",
+  "private": true
+}
