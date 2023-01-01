@@ -1,0 +1,31 @@
+#+title: Readme
+
+* Artity monorepo
+
+A monorepo for my GTD apps
+
+** tech
+
+*** monorepo
+
+Built on =yarn workspaces= by [[https://docs.expo.dev/guides/monorepos/][Expo monorepo guide]].
+
+** structure
+
+*** /apps
+
+Independant applications/services
+
+**** artity-expo
+
+React Native / Expo app for mobile devices
+
+***** NEXT Continue setting up from [[https://docs.expo.dev/guides/monorepos/#modify-the-metro-config][Modify the Metro config paragraph]]
+
+**** TODO artity-t3
+
+Fullstack web app built on [[https://create.t3.gg/][t3 stack]].
+
+*** /packages
+
+Common code libraries
