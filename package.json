@@ -6,5 +6,6 @@
   "repository": "git@github.com:artyhedgehog/artity-monorepo.git",
   "author": "Artem Kolomytsev <arhed@ya.ru>",
   "license": "MIT",
+  "workspaces": ["apps/*", "packages/*"],
   "private": true
 }
