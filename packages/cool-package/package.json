@@ -1,0 +1,7 @@
+{
+  "name": "cool-package",
+  "version": "1.0.0",
+  "description": "Testing a package for the expo app according to https://docs.expo.dev/guides/monorepos/#create-a-package",
+  "main": "index.js",
+  "license": "MIT"
+}

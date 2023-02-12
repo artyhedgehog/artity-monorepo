@@ -20,8 +20,6 @@ Independant applications/services
 
 React Native / Expo app for mobile devices
 
-***** NEXT Continue setting up from [[https://docs.expo.dev/guides/monorepos/#modify-the-metro-config][Modify the Metro config paragraph]]
-
 **** TODO Import into monorepo: [[https://github.com/artyhedgehog/artity-t3][artity-t3]]
 
 Fullstack web app built on [[https://create.t3.gg/][t3 stack]].
