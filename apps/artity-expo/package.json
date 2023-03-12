@@ -13,6 +13,7 @@
     "@types/react-native": "~0.70.6",
     "cool-package": "*",
     "expo": "~47.0.9",
+    "expo-linking": "~3.3.1",
     "expo-status-bar": "~1.4.2",
     "native-base": "^3.4.28",
     "react": "18.1.0",
